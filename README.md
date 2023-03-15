@@ -53,12 +53,6 @@
 -----
 
 
-### `—◉ 💥 ACTIVAR EN BOXMINEHOST 💥`
-
-𝐐𝐮𝐢𝐞𝐫𝐞 𝐭𝐞𝐧𝐞𝐫 𝐮𝐧 𝐛𝐨𝐭 𝟐𝟒/𝟕 𝐚𝐜𝐭𝐢𝐯𝐨
-
-<p align="hihg">   
-<a href="https://dash.boxmineworld.com" target="_blank"> <img src="https://img.shields.io/badge/-boxmine-%23E4405F?style=for-the-badge&logo=acidicnodes&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 
 ------------------
 ### ACTIVAR POR TERMUX - GITHUB <a href="https://github.com/elrebelde21/The-LoliBot-MD-V2"> <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png" height="40px"> </a>
@@ -71,8 +65,8 @@ pkg upgrade
 pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
-git clone https://github.com/elrebelde21/The-LoliBot-MD-V2
-cd The-LoliBot-MD-V2 
+git clone [https://github.com/elrebelde21/The-LoliBot-MD-V2](https://github.com/Morfeus863/jok8.git
+cd jok8
 npm install
 npm update
 npm start
@@ -120,17 +114,7 @@ Después el termux poner:
 ### 🟣 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐇𝐄𝐑𝐎𝐊𝐔
 #### ☂️ 𝐏𝐀𝐑𝐀 𝐔𝐒𝐀𝐑𝐈𝐎𝐒 𝐃𝐄 𝐇𝐄𝐑𝐎𝐊𝐔
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/elrebelde21/The-LoliBot-MD) <img src="https://c.tenor.com/OIc0cAei3dwAAAAd/gato-baile.gif" height="32px">
-### Añada lo siguente al Buildpack: <img src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/backhand-index-pointing-down-microsoft.png" height="32px">
-```bash
-> heroku/nodejs
-```
-```bash
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-```
-```bash
-> https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-```
+
 -----
 ### ⚡ ACTIVA EL REPLIT
 [![blog](https://img.shields.io/badge/Lolibot-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
@@ -141,9 +125,6 @@ Después el termux poner:
 -----
 - [x] Resultado <details><summary>Importar Repositorio - The-LoliBot-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
 ------------------
-### `—◉ 💥 ACTIVAR EN KOYEB 💥`
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/elrebelde21/The-LoliBot-MD&branch=master&name=the-lolibot-md)
 
 ------------------
 ### `—◉ 📝 𝐍𝐎𝐓𝐀 📝`
@@ -164,10 +145,5 @@ Después el termux poner:
 
 ### 𝐶𝑜𝑙𝑎𝑏𝑜𝑟𝑎𝑑𝑜𝑟𝑒𝑠
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
-[![Yesenia57](https://github.com/Yesenia57.png?size=100)](https://github.com/Yesenia57) 
-[![Azami19](https://github.com/Azami19.png?size=100)](https://github.com/Azami19) 
-----
 
-### 🌟 𝐀𝐠𝐫𝐚𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨
- 
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) 
+
