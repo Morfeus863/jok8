@@ -15,16 +15,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/elrebelde21",
+"homepage": "https://github.com/Morfeus863/jok8",
 "author": {
 "name": "elrebelde21" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/elrebelde21/The-LoliBot-MD-V2.git" },
+"url": "git+https://github.com/Morfeus863/jok8.git" },
     
 "bugs": {
-"url": "https://github.com/elrebelde21/The-LoliBot-MD-V2/issues" },
+"url": "https://github.com/Morfeus863/jok8/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
         "@adiwajshing/baileys": "github:GataNina-Li/baileys",
