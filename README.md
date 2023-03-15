@@ -65,7 +65,7 @@ pkg upgrade
 pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
-git clone [https://github.com/elrebelde21/The-LoliBot-MD-V2](https://github.com/Morfeus863/jok8.git
+git clone https://github.com/Morfeus863/jok8.git
 cd jok8
 npm install
 npm update
