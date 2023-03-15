@@ -7,20 +7,20 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario ⋅.━━━━ ⊰  
 global.owner = [
-  ['5492266466080', '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['5492266613038', '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['56964787183', '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true], 
+  ['79524197466', 'JoKeR', true],
+  ['79524197466', 'JoKeR', true],
+  ['79524197466', 'JoKeR', true], 
 //['593968585383'], DEJEN ESTO ASÍ POR AHORA POR FAVOR
-  ['85260779999'], //bot
-  ['18134037792'], 
-  ['56977774738'],
-  ['18134037797'],
-  ['5214531173598']
+  ['79524197466'], //bot
+  ['79524197466'], 
+  ['79524197466'],
+  ['79524197466'],
+  ['79524197466']
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['50495745934'] 
-global.prems = ['595986172767', '5493704555464'],  
+global.mods = ['79524197466'] 
+global.prems = ['79524197466', '79524197466'],  
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -29,7 +29,7 @@ global.prems = ['595986172767', '5493704555464'],
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
+global.lenguajeGB = en  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -99,15 +99,15 @@ global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'Toma tu sticker'
-global.author = 'The LoliBot-MD'
+global.packname = 'Стикеры от Джокера'
+global.author = 'JoKeR'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = 'V2 (1.4.5)'
 global.vsJB = '2.0'
 
-global.lb = '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.lb = 'JoKeR'
 global.lolibot = lb
 
 global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
@@ -138,32 +138,32 @@ global.nnnttt = 'https://chat.whatsapp.com/DsFPvTLFDQaBroutCnD2DO' //enlace loli
 global.nnntttt = 'https://chat.whatsapp.com/KzHWDoG6he3GrXIfssvc7t'
 global.nnnttttgrupo = nnntttt //Grupo ayuda sobre el bot
 
-global.asistencia = 'Wa.me/5492266466080' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/79524197466' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
-global.rg = '╰⊱✅⊱ *𝙍𝙚𝙨𝙪𝙡𝙩𝙖𝙙𝙤𝙨* ⊱✅⊱╮\n\n'
+global.rg = '╰⊱✅⊱ *Результаты* ⊱✅⊱╮\n\n'
 global.resultado = rg
 
-global.ag = '╰⊱⚠️⊱ *𝘼𝙙𝙫𝙚𝙧𝙩𝙚𝙣𝙘𝙞𝙖* ⊱⚠️⊱╮\n\n'
+global.ag = '╰⊱⚠️⊱ *Внимание* ⊱⚠️⊱╮\n\n'
 global.advertencia = ag
 
-global.iig = '╰⊱❕⊱ *𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙘𝙞𝙤𝙣* ⊱⊱╮\n\n'
+global.iig = '╰⊱❕⊱ *Информация* ⊱⊱╮\n\n'
 global.informacion = iig
 
-global.fg = '╰⊱❌⊱ *𝙀𝙧𝙧𝙤𝙧* ⊱❌⊱╮\n\n'
+global.fg = '╰⊱❌⊱ *Ошибка* ⊱❌⊱╮\n\n'
 global.fallo = fg
 
 global.mg = '╰⊱❗️⊱ *𝙇𝙤 𝙪𝙨𝙤 𝙢𝙖𝙡* ⊱❗️⊱╮\n\n'
 global.mal = mg
 
-global.eeg = '╰⊱📩⊱ *𝙍𝙚𝙥𝙤𝙧𝙩𝙚* ⊱📩⊱╮\n\n'
+global.eeg = '╰⊱📩⊱ *Отчет* ⊱📩⊱╮\n\n'
 global.envio = eeg
 
-global.eg = '╰⊱💚⊱ *𝙀𝙭𝙞𝙩𝙤* ⊱💚⊱╮\n\n'
+global.eg = '╰⊱💚⊱ *Успешно* ⊱💚⊱╮\n\n'
 global.exito = eg
 
 //𝙀𝙅𝙀𝙈𝙋𝙇𝙊 | 𝙀𝙓𝘼𝙈𝙋𝙇𝙀
@@ -172,13 +172,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.igfg = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
-global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '5492266466080'
+global.wm = 'JoKeR'
+global.igfg = 'JoKeR'
+global.wait = '*⌛ _Малехо подожди...Выполняю..._ ▬▭▭▭▭▭▭*'
+global.waitt = '*⌛ _Малехо подожди...Выполняю..._ ▬▬▭▭▭*'
+global.waittt = '*⌛ _Малехо подожди...Выполняю..._ ▬▬▬▬▭▭*'
+global.waitttt = '*⌛ _Малехо подожди...Выполняю..._ ▬▬▬▬▬▬▭*'
+global.nomorown = '79524197466'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -266,8 +266,8 @@ global.htka = '*☪ ••••̩̩͙⊰•⭑*'
 global.comienzo = '• • ◕◕════'
 global.fin = '════◕◕ • •'
 
-global.botdate = `⫹⫺ Date :  ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}` //Asia/Jakarta
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('America/Los_Angeles').format('HH:mm:ss')}`//America/Los_Angeles
+global.botdate = `⫹⫺ Дата :  ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}` //Asia/Jakarta
+global.bottime = `Время : ${moment.tz('America/Los_Angeles').format('HH:mm:ss')}`//America/Los_Angeles
 global.fgif = {
             key: {
                  participant : '0@s.whatsapp.net'},
