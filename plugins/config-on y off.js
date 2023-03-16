@@ -71,7 +71,7 @@ title: null,
 buttonText: `⚙️ ${lenguajeGB.smsConfi1()} ⚙️`,
 sections }
 
-let isEnable = /true|enable|(turn)?on|1/i.test(command)
+let isEnable = /включить|enable|(turn)?on|1/i.test(command)
 let type = (args[0] || '').toLowerCase()
 let isAll = false, isUser = false
 
@@ -420,12 +420,12 @@ throw false
 }
 	
 conn.sendButton(m.chat, `╭┄〔 *${wm}* 〕┄⊱
-┆🗂️ ᴏᴘᴄɪᴏɴ: ${type} 
+┆🗂️ Оция: ${type} 
 ┆——————«•»——————
-┆🎚️ ᴇsᴛᴀᴅᴏ: ${isEnable ? 'ᴀᴄᴛɪᴠᴀᴅᴏ' : 'ᴅᴇsᴀᴄᴛɪᴠᴀᴅᴏ'}
+┆🎚️ Статус: ${isEnable ? 'ВКЛЮЧЕНА' : 'ВЫКЛЮЧЕНА'}
 ┆——————«•»——————
-┆📣 ᴘᴀʀᴀ: ${isAll ? 'ᴇsᴛᴇ ʙᴏᴛ' : isUser ? '' : 'ᴇsᴛᴇ ᴄʜᴀᴛ'} 
-╰━━━⊰ 𓃠 ${vs} ⊱━━━━დ`, wm, null, [[`${isEnable ? '✖️ ᴅᴇsᴀᴄᴛɪᴠᴀʀ ✖️' : '✔️ ᴀᴄᴛɪᴠᴀʀ ✔️'}`, `${isEnable ? `#disable ${type}` : `#enable ${type}`}`]], m)
+┆📣 нАЗНАЧЕНИЕ: ${isAll ? 'ДЛЯ БОТА' : isUser ? '' : 'ДЛЯ ГРУППЫ'} 
+╰━━━⊰ 𓃠 ${vs} ⊱━━━━დ`, wm, null, [[`${isEnable ? '✖️ ВЫКЛЮЧИТЬ ✖️' : '✔️ ВКЛЮЧИТЬ ✔️'}`, `${isEnable ? `#disable ${type}` : `#enable ${type}`}`]], m)
 
 } catch (e) {
 await conn.sendButton(m.chat, `\n${wm}`, lenguajeGB['smsMalError3']() + '#report ' + usedPrefix + command, null, [[lenguajeGB.smsMensError1(), `#reporte ${lenguajeGB['smsMensError2']()} *${usedPrefix + command}*`]], m)
@@ -434,7 +434,7 @@ console.log(e)
 }}
 handler.help = ['en', 'dis'].map(v => v + 'able <option>')
 handler.tags = ['group', 'owner']
-handler.command = /^((en|dis)able|(tru|fals)e|(turn)?o(n|ff)|[01])$/i
+handler.command = /^((en|dis)able|(вкл|выкл)ючить|(turn)?o(n|ff)|[01])$/i
 export default handler
 
 const more = String.fromCharCode(8206)
