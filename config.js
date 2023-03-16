@@ -110,32 +110,32 @@ global.vsJB = '2.0'
 global.lb = 'JoKeR'
 global.lolibot = lb
 
-global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
+global.yt = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH'
 global.youtube = yt
 
-global.ig = 'https://www.tiktok.com/@thelolibot_md'
+global.ig = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH'
 global.tiktok = ig
 
-global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
+global.md = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH'
 global.lolibot = md
 
-global.nna = 'https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o'
+global.nna = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH'
 global.nnagrupo = nna //Actualización, información sobre el bot
 global.nna2 = 'JESaesjOEcB6wnGX0QYT9o'
 
-global.nn = 'https://chat.whatsapp.com/BaHPUdegBxB4eurlAbhOT8'
+global.nn = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/IIteN3dd6rG87b2liETl2o'
+global.nnn = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo del Colaboracion
+global.nnnt = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH' //Grupo del Colaboracion
 
-global.nnntt = 'https://chat.whatsapp.com/ImKvcl3Pstb8IMZk02v692' //Grupo COL 2 
+global.nnntt = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH' //Grupo COL 2 
 
-global.nnnttt = 'https://chat.whatsapp.com/DsFPvTLFDQaBroutCnD2DO' //enlace lolibot
+global.nnnttt = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH' //enlace lolibot
 
-global.nnntttt = 'https://chat.whatsapp.com/KzHWDoG6he3GrXIfssvc7t'
+global.nnntttt = 'https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH'
 global.nnnttttgrupo = nnntttt //Grupo ayuda sobre el bot
 
 global.asistencia = 'Wa.me/79524197466' //Dudas? escríbeme...
